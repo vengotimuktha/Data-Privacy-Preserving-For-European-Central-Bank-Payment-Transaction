@@ -1,7 +1,7 @@
 # Data Privacy-Preserving Analysis for European Central Bank Transactions  
 **Risk Stratification, Feature Importance & Predictive Modeling | Kent State Final Project**
 
-## 🛡 Overview
+##  Overview
 
 This project tackles the challenge of analyzing **sensitive payment transaction data** from the European Central Bank (ECB) while preserving individual privacy. We implemented data preprocessing, anonymization, **risk stratification**, and built predictive models to quantify and visualize privacy risk — balancing utility with GDPR-compliant privacy protections.
 
@@ -79,9 +79,9 @@ Visualizations (add image links if available):
 
 ## Repository Structure
  ECB-Privacy-ML/
-├── Big_Data_Analytics_Project.ipynb # Full analysis notebook
-├── Group_41-CS-63016-Final_Project_Report.docx
-└── README.md
+  - `Big_Data_Analytics_Project.ipynb # Full analysis notebook`
+  - `Group_41-CS-63016-Final_Project_Report.docx`
+  - `README.md`
 
 ---
 
