@@ -102,5 +102,5 @@ Visualizations (add image links if available):
 
 ##  Citation
 
-This project was submitted as part of the **Big Data Analytics course (CS-63016)** at **Kent State University (Spring 2024)** under Professor Yin Zhang.
+This project was submitted as part of the **Big Data Analytics course (CS-63016)** at **Kent State University (Spring 2024)** under Professor Xian Liang.
 
