@@ -106,15 +106,15 @@ ECB-Privacy-ML/
 ├── Group_41-CS-63016-Final_Project_Report.docx
 ├── README.md
 
-
+```
 ---
 
 ## 🔗 Access Project Deliverables
 
-- 📄 [Final Report (DOCX)](./Group_41-CS-63016-Final_Project_Report.docx)  
-- 🧠 [View Notebook (Google Colab)](https://colab.research.google.com/drive/1h2iEsEdQxtP47ORpaLQ-Cslj5H3ikPSF?usp=sharing)  
-- 🎥 [Presentation Video](https://video.kent.edu/media/Project_Presentation_Group41/1_1nt4fn5r)  
-- 🖥️ [Demo Walkthrough](https://video.kent.edu/media/Project_demo+12A14A11+pm/1_gjdrk97i)
+-  [Final Report (DOCX)](./Group_41-CS-63016-Final_Project_Report.docx)  
+-  [View Notebook (Google Colab)](https://colab.research.google.com/drive/1h2iEsEdQxtP47ORpaLQ-Cslj5H3ikPSF?usp=sharing)  
+-  [Presentation Video](https://video.kent.edu/media/Project_Presentation_Group41/1_1nt4fn5r)  
+-  [Demo Walkthrough](https://video.kent.edu/media/Project_demo+12A14A11+pm/1_gjdrk97i)
 
 ---
 
